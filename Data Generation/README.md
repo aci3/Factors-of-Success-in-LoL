@@ -1,3 +1,5 @@
+### Data Generation Methods
+
 Our Data Generation Was Conducted using 2 external tools:
   1) The RiotGames API provided by Riot Games, the developers of League of Legends
   2) Cassiopeia, a third party tool developed as a wrapper for the RiotGames API to make it easier to work with
